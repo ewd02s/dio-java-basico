@@ -1,4 +1,4 @@
-public class App {
+public class TiposVariaveis {
     /**
      * @param args
      * @throws Exception
